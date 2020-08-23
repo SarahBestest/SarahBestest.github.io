@@ -7,7 +7,7 @@ let skills = {
       unique: true,
       type: "Passive",
       dep: { },
-      maxLevel: 0,
+      maxLevel: 10,
       coords: { x: 0, y: 0 }
     }
   }
